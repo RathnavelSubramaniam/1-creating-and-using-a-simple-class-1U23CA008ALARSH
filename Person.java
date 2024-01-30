@@ -17,7 +17,7 @@ class Person
     public static void main (String age[])
     {
         Person a1 = new Person("Jhon","Doe",30);
-        Person a2 = new Person("Alic","Smith",25);
+        Person a2 = new Person("Alice","Smith",25);
 
         String ABC =a1.getfullname();
         String EFG =a2.getfullname();
